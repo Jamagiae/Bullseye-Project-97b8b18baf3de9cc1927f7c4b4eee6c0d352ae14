@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bullseye Project", "Bullseye Project\Bullseye Project.csproj", "{9533F281-0402-4FD2-9103-07BF9CA9D60C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9533F281-0402-4FD2-9103-07BF9CA9D60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9533F281-0402-4FD2-9103-07BF9CA9D60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9533F281-0402-4FD2-9103-07BF9CA9D60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9533F281-0402-4FD2-9103-07BF9CA9D60C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {447E046F-00E0-453E-9A3D-6E911CEF68B8}
+	EndGlobalSection
+EndGlobal
